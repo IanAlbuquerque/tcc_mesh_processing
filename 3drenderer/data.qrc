@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>fragmentshader.glsl</file>
+        <file>geometryshader.glsl</file>
+        <file>vertexshader.glsl</file>
+    </qresource>
+    <qresource prefix="/textures"/>
+    <qresource prefix="/imgs">
+        <file>imgs/left_mouse_button.jpg</file>
+        <file>imgs/middle_mouse_button.jpg</file>
+        <file>imgs/scroll_mouse_button.jpg</file>
+    </qresource>
+</RCC>
